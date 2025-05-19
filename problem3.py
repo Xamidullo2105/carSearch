@@ -10,9 +10,9 @@ cart = {
     "Uzum": 5,
 }
 prices = {
-    "Olma": 12000,
-    "Banan": 18000,
-    "Uzum": 15000,
+    "Olma": 1200,
+    "Banan": 1800,
+    "Uzum": 1500,
 }
 
 result = purchase_calculation(cart, prices)
